@@ -1,0 +1,5 @@
+main: itemcontrol.Itemcontrol.Itemcontrol
+version: 1.0.0
+name: Itemcontrol
+author: Seraphio
+api-version: 1.21

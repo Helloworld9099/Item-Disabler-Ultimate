@@ -1,0 +1,4 @@
+# put items you want to be disabled here, find item tags at https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+disabled-items:
+  - TOTEM_OF_UNDYING
+  - ENDER_PEARL
